@@ -4,8 +4,8 @@ var para1 = document.getElementById("p1");
 
 para1.textContent = myName;
 
-var n1 = 23;
-var n2 = 3;
+var n1 = 2;
+var n2 = 9;
 var numberSum = n1 + n2;
 document.getElementById("p2").textContent = numberSum;
 
