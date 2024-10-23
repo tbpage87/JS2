@@ -14,6 +14,8 @@ h1
 #wrapper 
 	{ 	
 		background-color: #FFFFFF;
+		margin: auto;
+		padding: 10px;
     width: 800px;
 		border: 1px solid darkblue;
 		box-shadow:3px 3px darkblue;
