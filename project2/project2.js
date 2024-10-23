@@ -1,3 +1,4 @@
+/*Tamla Miller*/
 var myName = "Tamla Miller";
 var para1 = document.getElementById("p1");
 
