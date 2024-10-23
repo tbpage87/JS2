@@ -1,0 +1,19 @@
+/* Tamla Miller */
+body	
+	{ 
+		background-color: #cde2e6;
+		color: #555555;
+		font-family: Arial, sans-serif; 
+	}
+h1		
+	{ 
+		font-family: Arial, sans-serif; 
+		font-size: 2.5em;
+		text-shadow: 1px 2px darkblue;
+	}
+#wrapper 
+	{ 	
+		background-color: #FFFFFF;
+    margin: auto;
+    width: 800px;
+	}
