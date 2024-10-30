@@ -2,7 +2,7 @@
 	{
 		"id": "1",
 		"breed": "",
-		"url:" "",
+		"url": "",
 		"breed_group": "",
 		"tolerates_cold": "",
 		"tolerates_heat": "",
@@ -28,7 +28,7 @@
 	{
 		"id": "3",
 		"breed": "Afghan Hound",
-		"url:" "https://dogtime.com/dog-breeds/afghan-hound",
+		"url": "https://dogtime.com/dog-breeds/afghan-hound",
 		"breed_group": "Hound Dogs",
 		"tolerates_cold": "5",
 		"tolerates_heat": "5",
@@ -41,7 +41,7 @@
 	{
 		"id": "4",
 		"breed": "Airedale Terrier",
-		"url:" "https://dogtime.com/dog-breeds/airedale-terrier",
+		"url": "https://dogtime.com/dog-breeds/airedale-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "3",
 		"tolerates_heat": "3",
@@ -54,7 +54,7 @@
 	{
 		"id": "5",
 		"breed": "Akita",
-		"url:" "https://dogtime.com/dog-breeds/akita",
+		"url": "https://dogtime.com/dog-breeds/akita",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "5",
 		"tolerates_heat": "2",
@@ -67,7 +67,7 @@
 	{
 		"id": "6",
 		"breed": "Alaskan Klee Kai",
-		"url:" "https://dogtime.com/dog-breeds/alaskan-klee-kai",
+		"url": "https://dogtime.com/dog-breeds/alaskan-klee-kai",
 		"breed_group": "Companion Dogs",
 		"tolerates_cold": "5",
 		"tolerates_heat": "2",
@@ -80,7 +80,7 @@
 	{
 		"id": "7",
 		"breed": "Alaskan Malamute",
-		"url:" "https://dogtime.com/dog-breeds/alaskan-malamute",
+		"url": "https://dogtime.com/dog-breeds/alaskan-malamute",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "5",
 		"tolerates_heat": "2",
@@ -93,7 +93,7 @@
 	{
 		"id": "8",
 		"breed": "American Bulldog",
-		"url:" "https://dogtime.com/dog-breeds/american-bulldog",
+		"url": "https://dogtime.com/dog-breeds/american-bulldog",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "2",
@@ -106,7 +106,7 @@
 	{
 		"id": "9",
 		"breed": "American Pit Bull Terrier",
-		"url:" "https://dogtime.com/dog-breeds/american-pit-bull-terrier",
+		"url": "https://dogtime.com/dog-breeds/american-pit-bull-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "3",
@@ -119,7 +119,7 @@
 	{
 		"id": "10",
 		"breed": "American Staffordshire Terrier",
-		"url:" "https://dogtime.com/dog-breeds/american-staffordshire-terrier",
+		"url": "https://dogtime.com/dog-breeds/american-staffordshire-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "3",
@@ -132,7 +132,7 @@
 	{
 		"id": "11",
 		"breed": "Australian Cattle Dog",
-		"url:" "https://dogtime.com/dog-breeds/australian-cattle-dog",
+		"url": "https://dogtime.com/dog-breeds/australian-cattle-dog",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "4",
@@ -145,7 +145,7 @@
 	{
 		"id": "12",
 		"breed": "Australian Shepherd",
-		"url:" "https://dogtime.com/dog-breeds/australian-shepherd",
+		"url": "https://dogtime.com/dog-breeds/australian-shepherd",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "4",
@@ -158,7 +158,7 @@
 	{
 		"id": "13",
 		"breed": "Basenji",
-		"url:" "https://dogtime.com/dog-breeds/basenji",
+		"url": "https://dogtime.com/dog-breeds/basenji",
 		"breed_group": "Hound Dogs",
 		"tolerates_cold": "1",
 		"tolerates_heat": "4",
@@ -171,7 +171,7 @@
 	{
 		"id": "14",
 		"breed": "Basset Hound",
-		"url:" "https://dogtime.com/dog-breeds/basset-hound",
+		"url": "https://dogtime.com/dog-breeds/basset-hound",
 		"breed_group": "Hound Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "2",
@@ -184,7 +184,7 @@
 	{
 		"id": "15",
 		"breed": "Beagle",
-		"url:" "https://dogtime.com/dog-breeds/beagle",
+		"url": "https://dogtime.com/dog-breeds/beagle",
 		"breed_group": "Hound Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "4",
@@ -197,7 +197,7 @@
 	{
 		"id": "16",
 		"breed": "Bearded Collie",
-		"url:" "https://dogtime.com/dog-breeds/bearded-collie",
+		"url": "https://dogtime.com/dog-breeds/bearded-collie",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "3",
@@ -210,7 +210,7 @@
 	{
 		"id": "17",
 		"breed": "Bedlington Terrier",
-		"url:" "https://dogtime.com/dog-breeds/bedlington-terrier",
+		"url": "https://dogtime.com/dog-breeds/bedlington-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "3",
@@ -223,7 +223,7 @@
 	{
 		"id": "18",
 		"breed": "Belgian Malinois",
-		"url:" "https://dogtime.com/dog-breeds/belgian-malinois",
+		"url": "https://dogtime.com/dog-breeds/belgian-malinois",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "4",
@@ -236,7 +236,7 @@
 	{
 		"id": "19",
 		"breed": "Belgian Sheepdog",
-		"url:" "https://dogtime.com/dog-breeds/belgian-sheepdog",
+		"url": "https://dogtime.com/dog-breeds/belgian-sheepdog",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "3",
@@ -249,7 +249,7 @@
 	{
 		"id": "20",
 		"breed": "Bernese Mountain Dog",
-		"url:" "https://dogtime.com/dog-breeds/bernese-mountain-dog",
+		"url": "https://dogtime.com/dog-breeds/bernese-mountain-dog",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "5",
 		"tolerates_heat": "1",
@@ -262,7 +262,7 @@
 	{
 		"id": "21",
 		"breed": "Bichon Frise",
-		"url:" "https://dogtime.com/dog-breeds/bichon-frise",
+		"url": "https://dogtime.com/dog-breeds/bichon-frise",
 		"breed_group": "Companion Dogs",
 		"tolerates_cold": "3",
 		"tolerates_heat": "4",
@@ -275,7 +275,7 @@
 	{
 		"id": "22",
 		"breed": "Bloodhound",
-		"url:" "https://dogtime.com/dog-breeds/bloodhound",
+		"url": "https://dogtime.com/dog-breeds/bloodhound",
 		"breed_group": "Hound Dogs",
 		"tolerates_cold": "3",
 		"tolerates_heat": "3",
@@ -288,7 +288,7 @@
 	{
 		"id": "23",
 		"breed": "Border Collie",
-		"url:" "https://dogtime.com/dog-breeds/border-collie",
+		"url": "https://dogtime.com/dog-breeds/border-collie",
 		"breed_group": "Herding Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "4",
@@ -301,7 +301,7 @@
 	{
 		"id": "24",
 		"breed": "Boston Terrier",
-		"url:" "https://dogtime.com/dog-breeds/boston-terrier",
+		"url": "https://dogtime.com/dog-breeds/boston-terrier",
 		"breed_group": "Companion Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "3",
@@ -314,7 +314,7 @@
 	{
 		"id": "25",
 		"breed": "Boxer",
-		"url:" "https://dogtime.com/dog-breeds/boxer",
+		"url": "https://dogtime.com/dog-breeds/boxer",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "2",
 		"tolerates_heat": "2",
@@ -327,7 +327,7 @@
 	{
 		"id": "26",
 		"breed": "Brittany",
-		"url:" "https://dogtime.com/dog-breeds/brittany",
+		"url": "https://dogtime.com/dog-breeds/brittany",
 		"breed_group": "Sporting Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "3",
@@ -340,7 +340,7 @@
 	{
 		"id": "27",
 		"breed": "Bull Terrier",
-		"url:" "https://dogtime.com/dog-breeds/bull-terrier",
+		"url": "https://dogtime.com/dog-breeds/bull-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "1",
 		"tolerates_heat": "4",
@@ -353,7 +353,7 @@
 	{
 		"id": "28",
 		"breed": "Bullmastiff",
-		"url:" "https://dogtime.com/dog-breeds/bullmastiff",
+		"url": "https://dogtime.com/dog-breeds/bullmastiff",
 		"breed_group": "Working Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "2",
@@ -366,7 +366,7 @@
 	{
 		"id": "29",
 		"breed": "Cairn Terrier",
-		"url:" "https://dogtime.com/dog-breeds/cairn-terrier",
+		"url": "https://dogtime.com/dog-breeds/cairn-terrier",
 		"breed_group": "Terrier Dogs",
 		"tolerates_cold": "4",
 		"tolerates_heat": "4",
