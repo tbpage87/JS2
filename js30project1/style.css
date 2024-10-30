@@ -1,13 +1,22 @@
 html {
   box-sizing: border-box;
-  background: #ffc600;
-  font-family: 'helvetica neue';
+  background: #4287f5;
+  font-family: sans-serif;
   font-size: 20px;
   font-weight: 200;
 }
 
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: #002257;
+}
+
+a:hover {
+  color: #5e00c2;
 }
 
 input {
@@ -65,10 +74,10 @@ input.search {
   background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
 }
 
-span.population {
+span.breedgroup {
   font-size: 15px;
 }
 
 .hl {
-  background: #ffc600;
+  background: #85dcff;
 }
