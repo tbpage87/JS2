@@ -1,3 +1,4 @@
+/* Tamla Miller */
 var fullName = "Tamla Miller";
 console.log(fullName);
 
