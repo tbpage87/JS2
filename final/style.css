@@ -1,0 +1,107 @@
+/* Tamla Miller */
+
+html {
+  background: #4287f5;
+  font-family: sans-serif;
+  font-size: 20px;
+
+}
+
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #002257;
+}
+
+a:hover {
+  color: #5e00c2;
+}
+
+h1 {
+  font-size: 1.5em;
+  text-shadow: 2px 1px #7a9ed6;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 20px;
+  text-align: left;
+  display: inline-block; 
+}
+
+li {
+
+}
+
+.columns {
+  text-align: center;
+}
+
+div.columns > span {
+  text-align: center;
+}
+
+#wrapper {   
+  background-color: #FFFFFF;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: .5em;
+}
+
+.forms {
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+@supports (display: grid) {
+  
+}
+@media (max-width: 750px) {
+  
+  .columns {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+  }
+  
+}
+
+@media (min-width: 750px) {
+  
+  form {
+    width: 60%;
+    display: grid;
+    grid-template-columns: 200px 2fr 1fr;
+    gap: 1em;
+  }
+
+  .columns {
+    display: flex;
+    flex-direction: row;
+  }
+
+  div.columns > span {
+    flex: 1;
+  }
+  
+}
+@media (min-width: 1024px) {
+  
+  
+  #wrapper {
+    margin: auto;
+    width: 1024px;
+    border: 1px solid #000000;
+    box-shadow:3px 3px #7a9ed6;
+  }
+
+}
