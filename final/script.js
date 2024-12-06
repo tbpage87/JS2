@@ -29,11 +29,13 @@ function subNums(number) {
   var subCol = document.getElementById('sub');
   var result = 0;
   var list = ``;
+  var i = 1
 
   
-  for (let i = 1; i < 11; i++) {
+  while (i < 11) {
     result = i - number;
     list += `<li>${i} - ${number} = ${result}</li>`;
+    i++;
   }
 
   subCol.innerHTML = list;
@@ -44,12 +46,14 @@ function multNums(number) {
   var multCol = document.getElementById('mult');
   var result = 0;
   var list = ``;
+  var i = 1;
 
   
-  for (let i = 1; i < 11; i++) {
+  do {
     result = number * i;
     list += `<li>${i} * ${number} = ${result}</li>`;
-  }
+    i++;
+  } while (i < 11);
 
   multCol.innerHTML = list;
 }
